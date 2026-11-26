@@ -5,6 +5,8 @@ My research focuses on the nexus of AI, labour, and the creative industries in C
 
 <a href="https://docs.google.com/document/d/1jtcUMTl0QIzJFogjjw7eh2i4oy5ctkWuwaCVC2yc9T0/edit?tab=t.0"> -The Invisible Hand of GenAI: Article Review
 
+<a href="https://docs.google.com/document/d/1f8jVYd0Jd3WrXdJYu1Pr5aPli4engHY4WSQeO8QgdMM/edit?tab=t.0"> -Midjourney and the Cyborg
+
 # Inspirations
 <ul>
   <li> <a href="https://artsaiobservatory.org/"> The Arts and AI Observatory
